@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **Flutter**, **Django**, and **Cloud**  
 💬 Ask me about **Linux, Python, and Web Development**  
-📫 How to reach me: [Email](mailto:you@example.com)  
+📫 How to reach me: [Email](lavya077@gmail.com)  
 ⚡ Fun fact: I love mixing code and coffee ☕
 
 ---
