@@ -31,6 +31,4 @@ I enjoy exploring tech — from web to mobile, and everything in between.
 
 ---
 
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=lavvya&theme=onedark)
 
