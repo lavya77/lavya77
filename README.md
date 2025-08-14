@@ -23,6 +23,8 @@ I enjoy exploring tech — from web to mobile, and everything in between.
 ### 📊 GitHub Stats
 ![Lavvya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavvya&show_icons=true&theme=tokyonight)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=lavya77&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 ---
 
 ### 🏆 GitHub Trophies
