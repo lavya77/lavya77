@@ -1,9 +1,8 @@
-# Hi there 👋, I'm Lavvya
+# Hi there 👋, I'm Lavya
 
-🌱 I’m currently learning **Flutter**, **Django**, and **Cloud**  
-💬 Ask me about **Linux, Python, and Web Development**  
-📫 How to reach me: [Email](lavya077@gmail.com)  
-⚡ Fun fact: I love mixing code and coffee ☕
+I'm passionate about building things and learning along the way.  
+I enjoy exploring tech — from web to mobile, and everything in between. 
+⚡ Fun fact: My code has more “temporary” fixes than my fridge has leftovers — but both still work.
 
 ---
 
