@@ -3,6 +3,7 @@
 I'm passionate about building things and learning along the way.  
 I enjoy exploring tech — from web to mobile, and everything in between. 
 ⚡ Fun fact: My code has more “temporary” fixes than my fridge has leftovers — but both still work.
+How to reach me: [lavya077@gmail.com](lavya077@gmail.com)
 
 ---
 
