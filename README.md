@@ -10,7 +10,7 @@ I enjoy exploring tech — from web to mobile, and everything in between.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -24,7 +24,7 @@ I enjoy exploring tech — from web to mobile, and everything in between.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 ![Lavvya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavvya&show_icons=true&theme=tokyonight)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=lavya77&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
