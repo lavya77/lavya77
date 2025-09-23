@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Lavya
+# Hello there , I'm Lavya
 
 I'm passionate about building things and learning along the way.  
 I enjoy exploring tech — from web to mobile, and everything in between.  
