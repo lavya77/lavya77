@@ -1,9 +1,7 @@
 # Hello there , I'm Lavya
 
 I'm passionate about building things and learning along the way.  
-I enjoy exploring tech — from web to mobile, and everything in between.  
-
-**Fun Fact:** Flutter doesn’t just draw widgets — it **paints every single pixel on the screen itself**. That’s why your app looks exactly the same on Android, iOS, web, or even a fridge… okay, maybe not the fridge (yet).
+I enjoy exploring tech — from web to mobile, and everything in between. 
 
 
 **How to reach me:** [lavya077@gmail.com](mailto:lavya077@gmail.com)
