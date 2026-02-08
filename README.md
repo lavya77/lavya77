@@ -23,10 +23,11 @@ I enjoy exploring tech — from web to mobile, and everything in between.
 ---
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavya77&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavya77&show_icons=true&theme=tokyonight&cache_seconds=3600)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lavya77&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=lavya77&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavya77&layout=compact&theme=tokyonight)
 
 ---
 
