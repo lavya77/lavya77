@@ -21,11 +21,12 @@ I enjoy exploring tech — from web to mobile, and everything in between.
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
+### GitHub Stats
 
-###  GitHub Stats
-![Lavvya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lavvya&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavya77&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lavya77&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=lavya77&theme=tokyonight&hide_border=true)
+
 
 ---
 
