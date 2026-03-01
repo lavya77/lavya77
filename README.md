@@ -6,7 +6,7 @@
 <h1 align="center">Lavya</h1>
 
 <p align="center">
-Backend Developer • Django • REST APIs • Linux
+Backend Developer | Django REST Framework | API Design | Linux
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@ Backend Developer • Django • REST APIs • Linux
 ---
 
 ## About
-Computer Science student focused on backend development and scalable web services.  
+Computer Science student specializing in backend development and scalable web services.  
 I build RESTful APIs, management systems and automation tools using Python and Django.  
 Interested in system design, clean architecture and practical software engineering.
 
@@ -65,8 +65,8 @@ Dynamic resume generation web application.
 ## GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lavya77&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavya77&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=lavya77&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavya77&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -87,18 +87,14 @@ Dynamic resume generation web application.
 
 ## Featured Repositories
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lavya77&repo=University-Management-System&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=lavya77&repo=Attendance-Management-API&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lavya77&repo=university-management-system&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lavya77&repo=attendance-management-api&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## Connect
-<p>
-<a href="mailto:lavya077@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+## Contact
+Professional inquiries: lavya077@gmail.com
 
 ---
 
@@ -106,7 +102,3 @@ Dynamic resume generation web application.
 <p align="center">
 <img src="https://raw.githubusercontent.com/lavya77/lavya77/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-Currently open to internships, backend roles and collaboration opportunities.
