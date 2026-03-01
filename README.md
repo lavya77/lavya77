@@ -1,80 +1,86 @@
 <h1 align="center">Lavya</h1>
-<h3 align="center">Backend Developer • Django • REST APIs • Linux</h3>
+<p align="center">
+Backend Developer • Django • REST APIs • Linux
+</p>
+
+<p align="center">
+Focused on backend systems, API architecture and scalable web services.
+</p>
 
 ---
 
-## Profile
-Computer Science student focused on backend development and system design.  
-I build RESTful services, management systems and automation tools using Python and Django.  
-Interested in scalable architectures, clean code and practical software engineering.
+## About
+Computer Science student working primarily with Python and Django to build real-world systems such as management platforms, APIs and automation tools.  
+Interested in clean architecture, system design and practical software engineering.
 
 ---
 
-## Core Skills
+## Tech Stack
 
-**Languages**
-- Python
-- C
-- JavaScript
-- HTML
-- CSS
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
+</p>
 
-**Backend**
-- Django
-- Django REST Framework
-- REST API Design
-- Authentication & Authorization
+### Backend & Database
+<p>
+<img src="https://skillicons.dev/icons?i=django,postgresql,sqlite" />
+</p>
 
-**Database**
-- PostgreSQL
-- SQLite
-
-**Tools & Environment**
-- Git
-- GitHub
-- Linux (Ubuntu / Arch)
-- Postman
-- Docker (learning)
+### Tools & Environment
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,docker,vscode" />
+</p>
 
 ---
 
 ## Projects
 
 ### University Management System (Microservices)
-Backend architecture for managing university operations such as users, courses, attendance and enrollment.
+Backend architecture for managing users, courses, attendance and enrollment.
 
-**Key Features**
-- Role-based access (Student / Teacher / Admin)
-- Secure authentication
-- Modular microservice structure
-- RESTful API endpoints
-
----
+- Role based authentication
+- RESTful APIs
+- Modular service structure
 
 ### Attendance Management API
-REST API service for tracking and reporting student attendance.
+API service to record and analyze attendance.
 
-**Key Features**
-- Attendance marking endpoints
-- Report generation
 - Secure endpoints
-- JSON based responses
+- Reports and analytics
+- JSON responses
+
+### CVitae Resume Builder
+Dynamic resume generation web application.
 
 ---
 
-### CVitae Resume Builder
-Web application that dynamically generates professional resumes.
+## GitHub Statistics
 
-**Key Features**
-- Structured resume templates
-- Dynamic data rendering
-- Export-ready output
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=lavya77&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavya77&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+## Contribution Streak
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lavya77&theme=tokyonight&hide_border=true">
+</p>
+
+---
+
+## Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lavya77&theme=tokyo-night&hide_border=true">
+</p>
 
 ---
 
 ## Contact
-Email: lavya077@gmail.com
+lavya077@gmail.com
 
 ---
 
-Currently open to internships, backend roles and collaboration opportunities.
+Open to internships, backend roles and collaboration.
