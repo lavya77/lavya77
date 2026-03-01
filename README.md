@@ -41,24 +41,34 @@ Interested in system design, clean architecture and practical software engineeri
 
 ---
 
-## Featured Projects
+## Core Competencies
 
-### University Management System
-Backend architecture for handling users, courses, enrollment and attendance.
+- Designing RESTful APIs with Django REST Framework
+- Authentication & authorization (JWT / session-based)
+- Role-based access control systems
+- Database schema design and relational modeling
+- Building modular backend services
+- API testing using Postman
+- Linux based development workflow
 
-- Role-based authentication
-- REST API endpoints
-- Modular service structure
+---
 
-### Attendance Management API
-API service for tracking and reporting attendance.
+## Backend Focus
 
-- Secure endpoints
-- Reports and analytics
-- JSON responses
+- API architecture and endpoint structuring
+- Serialization & validation logic
+- Middleware and request lifecycle
+- Database relationships and query optimization
+- Error handling and response standardization
 
-### CVitae Resume Builder
-Dynamic resume generation web application.
+---
+
+## Currently Exploring
+
+- Docker containerization
+- Microservices communication patterns
+- System design fundamentals
+- Basic security practices for web applications
 
 ---
 
